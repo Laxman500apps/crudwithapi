@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "stuname": "Laxman",
+      "email": "laxman@gmail.com",
+      "id": 7
+    },
+    {
+      "stuname": "Chennai",
+      "email": "chennai@gmail.com",
+      "id": 12
+    },
+    {
+      "stuname": "Srinagar",
+      "email": "srinagar@gmail.com",
+      "id": 13
+    },
+    {
+      "stuname": "Mumbai",
+      "email": "mumbai@gmail.com",
+      "id": 14
+    },
+    {
+      "stuname": "Mysore",
+      "email": "mysore@gmail.com",
+      "id": 15
+    },
+    {
+      "stuname": "Hyderabad",
+      "email": "hyderabad@gmail.com",
+      "id": 16
+    }
+  ]
+}
